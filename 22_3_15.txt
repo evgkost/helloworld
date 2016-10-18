@@ -1,17 +1,1 @@
-Protocols testing - I've added shell tests for several UEFI protocols that our driver produces, including important FMP protocol. The tests allowed us to increase code coverage in validation, and improved overall quality of the driver.
-Generic UEFI driver - designed and implemented mechanism that allows running UEFI driver on any branded and non-branded Mellanox card, providing greater flexibility to customers.
-UEFI driver tasks - I have added and validated several features to the driver, for example AIP, FMP for Cx4, AARCH64 build for UEFI driver, VPI and HP shared memory, fixed bugs and provided customer's support on issues like EMC's FW update with PSID override and HP's CLP problem.
-
-Team player - I have strong abilities to work in a team, helping others, sharing knowledge, able to switch quickly to urgent tasks to help team progress
-Quick learning - I'm able to learn new technologies and skills quickly and independently
-Debug skills - I have the ability to analyze the problem and nail the root-cause.
-
-Planning - I need to improve my planning, by analyzing bigger task more thoroughly and accurately estimating efforts of sub-tasks
-Flexboot - I should gather broader knowledge in FlexBoot code to be able to help team in this area when such need arises.
-Agile - improve work in agile environment, provide better tracking and reporting of ongoing tasks.
-
-Look into taking more responsibility, taking ownership over independent module or stand-alone project (for example making Uflint a production quality tool).
-Improve verification of UEFI driver by covering all the produced protocols and reaching 100% function coverage
-Deliver all UEFI requirements on time with zero customer bugs
-
-I'm interesting in taking ownership over SW project, improving my planning and tracking skills and progress to managerial position over the next two years.
+blabla
